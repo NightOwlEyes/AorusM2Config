@@ -1,0 +1,158 @@
+[{"CurrentKeyIndex":AB
+"fnKey":{"nProfile":0,
+"fnType":BA
+"value":{
+
+1	Right Button
+2	Middle Button
+3	Left Backward
+4	Left Forward
+5	Right Backward
+6	Right Forward
+
+BA:	comboBoxSelectFunction
+0	Default
+1	Disable
+2	"mouse"
+3	"keyboard"
+6	Macro
+9	DPI+
+10	DPI-
+11	DPI Loop
+13	"media"
+
+
+"mouse":{"msbutton":AA,"wheelcount":BB"tiltcount":0},
+AA:	
+1	Left Button
+2	Right Button
+4	Middle Button
+8	Backward
+16	Forward	
+
+BB:
+1	Forward Scroll
+255	Backward Scroll
+
+
+"keyboard":{"keyModifier"AAA,"keyCode":BBB},
+
+AAA:
+0	None
+1	Alt
+2	Ctrl
+4	Shift
+8	Win
+3	Alt + Ctrl
+5	Alt + Shift
+9	Alt + Win
+6	Ctrl + Shift
+10	Ctrl + Win
+12	Shift + Win
+
+BBB:
+8	Backspace
+9	Tab
+13	Enter
+16	Shift
+17	Ctrl
+18	Alt
+19	Pause/Break
+20	Caps Lock
+27	Esc
+33	Page Up
+34	Page Down
+35	End
+36	Home
+37	Arrow Left
+38	Arrow Up
+39	Arrow Right
+40	Arrow Down
+45	Insert
+46	Delete
+59	;
+61	=
+65	A
+66	B
+67	C
+68	D
+69	E
+70	F
+71	G
+72	H
+73	I
+74	J
+75	K
+76	L
+77	M
+78	N
+79	O
+80	P
+81	Q
+82	R
+83	S
+84	T
+85	U
+86	V
+87	W
+88	X
+89	Y
+90	Z
+96	0 (Num Lock)
+97	1 (Num Lock)
+98	2 (Num Lock)
+99	3 (Num Lock)
+100	4 (Num Lock)
+101	5 (Num Lock)
+102	6 (Num Lock)
+103	7 (Num Lock)
+104	8 (Num Lock)
+105	9 (Num Lock)
+106	* (Num Lock)
+107	+ (Num Lock)
+109	- (Num Lock)
+110	. (Num Lock)
+111	/ (Num Lock)	
+112	F1
+113	F2
+114	F3
+115	F4
+116	F5
+117	F6
+118	F7
+119	F8
+120	F9
+121	F10
+122	F11
+123	F12
+144	Num Lock
+145	Scroll Lock
+182	My Computer
+183	My Calculator
+188	,
+190	.
+191	/
+192	`
+219	[
+220	\
+221	]
+222	'
+
+"macros":{"macrosIndex":AAAA},
+AAAA:
+
+
+"media":{"key":BBBB}},
+BBBB:
+0	Web Browser	radioButtonWebBrowser
+1	Volume Up	radioButtonMiddleButton
+2	Volume Down	radioButtonVolumeDown
+3	Calculator	radioButtonCalculator
+4	Play/Pause	radioButtonPlayPause
+5	Stop		radioButtonStop
+6	Next		radioButtonNext
+7	Previous	radioButtonPrevious
+8	E-mail		radioButtonEmail
+9	Computer	radioButtonComputer
+10	Media Player	radioButtonMediaPlayer
+11	Mute On/Off	radioButtonMuteOnOff
